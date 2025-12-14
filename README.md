@@ -37,6 +37,7 @@ As principais etapas do processo foram:
 
 ## 3. Estrutura do Repositório
 
+```
 .
 ├── biot
 │   ├── plano-de-testes-biot.md
@@ -58,7 +59,7 @@ As principais etapas do processo foram:
 │   ├── requisitos-manager.md
 │   └── resultado-manager.md
 └── README.md
-
+```
 ---
 
 ## 4. Documentos Gerais
